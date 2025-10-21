@@ -1,2 +1,2 @@
-# Apresenta-o
-Apresentação pessoal, enquanto pratico html, CSS, JavaScript
+# about me
+Personal presentation, while practicing html, CSS, JavaScript
