@@ -1,0 +1,25 @@
+# Pastas de configuracao de editor
+.vscode/
+.idea/
+
+# Arquivos temporarios do sistema
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporarios
+*.log
+*.tmp
+*.bak
+
+# Pastas de dependencias 
+node_modules/
+
+# Pastas de build ou producao
+dist/
+build/
+
+# Arquivos de ambiente (variaveis secretas)
+.env
+
+# Pasta de arquivos de teste
+tests/
